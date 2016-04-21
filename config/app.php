@@ -166,6 +166,7 @@ return [
 
 
 		Modules\Core\Providers\AsgardServiceProvider::class,
+		Barryvdh\Elfinder\ElfinderServiceProvider::class,
 	],
 
 	/*
